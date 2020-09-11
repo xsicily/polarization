@@ -1,6 +1,6 @@
 # Polarization
 
-## TASK: Identifing and monitoring the polarization from the perspective of social networks
+## TASK - Identifing and monitoring the polarization from the perspective of social networks
 
 1. Dataset 
 
